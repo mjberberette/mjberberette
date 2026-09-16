@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://melanieberberette.design"><img src="assets/mb-monogram.gif" width="160" height="160" alt="MB monogram — animated"></a>
+  <a href="https://melanieberberette.design"><img src="mb-monogram.gif" width="160" height="160" alt="MB monogram — animated"></a>
 </p>
 
 <h1 align="center">Melanie Berberette</h1>
