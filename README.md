@@ -92,7 +92,7 @@ More Design Work — Brand identity, Web Design, App Design, Marketing and UX/UI
 - **Product & UX design** — information architecture, flows, interface design, and usability testing for complex products.
 - **Design systems** — token architecture, component APIs, documentation, and the governance that keeps them alive after handoff.
 - **Brand & art direction** — identity systems designed for screens first, with motion to tell a story and guide the user on a journey.
-- **Web design & build** — marketing, SaaS, and client websites designed and built by with professionalism and love.
+- **Web design & build** — marketing, SaaS, and client websites designed and built with professionalism and love.
 
 <!--
 Optional GitHub stats card (rendered by the third-party github-readme-stats service on Vercel).
