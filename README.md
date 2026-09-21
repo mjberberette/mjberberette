@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  Good design is not decoration. It is the shortest path between a person and what they came to do —
-  built once, documented properly, and beautiful enough that the team defends it.
+  "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 </p>
 
 <p align="center">
