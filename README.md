@@ -60,7 +60,7 @@ I design in Figma and build what I design: marketing sites in vanilla HTML/CSS/J
 <!-- TODO(Melanie): only three public repos exist on github.com/mjberberette right now.
      Add rows here as more work goes public, or make selected private repos public to feature them. -->
 
-More design work — brand identity, an editorial CMS, commerce, and healthcare service design — lives on the site: [melanieberberette.design](https://melanieberberette.design). Case studies with research and post-launch numbers are available on request.
+More Design Work — Brand identity, Web Design, App Design, Marketing and UX/UI processes: [melanieberberette.design](https://melanieberberette.design). 
 
 ## Tools I think in
 
@@ -91,8 +91,8 @@ More design work — brand identity, an editorial CMS, commerce, and healthcare 
 
 - **Product & UX design** — information architecture, flows, interface design, and usability testing for complex products.
 - **Design systems** — token architecture, component APIs, documentation, and the governance that keeps them alive after handoff.
-- **Brand & art direction** — identity systems designed for screens first, with motion that carries the personality.
-- **Web design & build** — marketing sites and portfolios designed and built by the same pair of hands.
+- **Brand & art direction** — identity systems designed for screens first, with motion to tell a story and guide the user on a journey.
+- **Web design & build** — marketing, SaaS, and client websites designed and built by the same pair of hands.
 
 <!--
 Optional GitHub stats card (rendered by the third-party github-readme-stats service on Vercel).
