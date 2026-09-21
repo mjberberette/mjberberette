@@ -20,7 +20,7 @@
 
 ---
 
-Twelve years of product, brand, and web design — most of it spent on the parts that decide whether an interface feels finished: information architecture, edge-case states, and design systems that outlive the team that built them. Currently Senior Web + UX Designer at [EveryPeer](https://everypeer.com), and taking on independent design-partner and sprint engagements through the studio.
+fifteen years of product, brand, and web design, most of it spent on the parts that decide whether an interface feels finished: information architecture, edge-case states, and design systems that outlive the team that built them. Currently Principal Web + UX Designer at [EveryPeer](https://everypeer.com), and taking on independent design work for clients who need a website or app.
 
 I design in Figma and build what I design: marketing sites in vanilla HTML/CSS/JS with GSAP and Lenis, and product work in React and Next.js. The repos here are the build side of that practice.
 
