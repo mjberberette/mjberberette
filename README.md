@@ -95,7 +95,7 @@ More Design Work — Brand identity, Web Design, App Design, Marketing and UX/UI
 - **Design systems** — token architecture, component APIs, documentation, and the governance that keeps them alive after handoff.
 - **Brand & art direction** — identity systems designed for screens first, with motion to tell a story and to guide the user on a unique journey.
 - **Web design & build** — marketing, SaaS, and tech products designed and built with professionalism and love.
-- **3d & motion design** - create interactive 3D products and unique motion design structures for front-end projects.
+- **3D & motion design** - interactive 3D products and unique motion design structures for front-end projects.
 
 <!--
 Optional GitHub stats card (rendered by the third-party github-readme-stats service on Vercel).
