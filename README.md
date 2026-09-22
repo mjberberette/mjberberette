@@ -39,28 +39,25 @@ Outside of my professional work, you can find me disc-golfing around Denver, goi
   </thead>
   <tbody>
     <tr>
+      <td><strong>melanieberberette.design</strong></td>
+      <td>My portfolio and design-services site. Dark editorial layout with a hero built around the MB monogram in real 3D — chrome-lit, following the pointer, draggable, and choreographed by the scroll while the section is pinned. Pinned horizontal work gallery, animated Lordicon icons, pricing tiers, and a reduced-motion path for every effect. Hand-written HTML, CSS, and JavaScript with no framework; Vite is only the dev server and bundler.</td>
+      <td>HTML · CSS · vanilla JavaScript · Vite · GSAP · Lenis · Three.js · Lottie · Motion</td>
+      <td nowrap><a href="https://github.com/mjberberette/melanie-portfolio">Repo</a> · <a href="https://melanieberberette.design">Live</a></td>
+    </tr>
+    <tr>
+      <td><strong>Client Portal</strong></td>
+      <td>Invitation-only portal for studio clients, built for <code>portal.melanieberberette.design</code>. Clients sign agreements in the browser (drawn or typed, with a certificate page and SHA-256 fingerprint stamped on the PDF), follow a five-phase project track with milestones and updates, manage their profile and website details, and message the studio with live replies and read receipts. An admin side handles invitations, projects, and agreements; runs in demo mode without credentials.</td>
+      <td>Next.js 16 · TypeScript · Tailwind CSS 4 · shadcn/ui · pdf-lib · Supabase</td>
+      <td nowrap><a href="https://github.com/mjberberette/melanie-portfolio/tree/main/portal">Repo</a> · <a href="https://github.com/mjberberette/melanie-portfolio/blob/main/portal/README.md">Docs</a></td>
+    </tr>
+    <tr>
       <td><strong>Eaton Home</strong></td>
       <td>A two-person household dashboard for home upgrade projects: ranked priorities with drag-and-drop, per-project budgets and price-history graphs, recurring home care, a live activity feed, and a draggable 3D model of the house with upgrade markers. Realtime sync between members via Supabase.</td>
       <td>Next.js 16 · TypeScript · Tailwind CSS 4 · shadcn/ui · GSAP · react-three-fiber · Supabase</td>
       <td nowrap><a href="https://github.com/mjberberette/eaton-home">Repo</a> · <a href="https://eaton-home.vercel.app">Live</a> · <a href="https://github.com/mjberberette/eaton-home/tree/main/portfolio">Case study</a></td>
     </tr>
-    <tr>
-      <td><strong>PeerTracer</strong></td>
-      <td>Multi-page marketing site for EveryPeer's PeerTracer product — home, getting started, tokenomics, about, contact, and terms — with live market-cap and network-path statistics on the landing page.</td>
-      <td>HTML · CSS · vanilla JavaScript</td>
-      <td nowrap><a href="https://github.com/mjberberette/PeerTracer-V3">Repo</a></td>
-    </tr>
-    <tr>
-      <td><strong>PeerTracer Splash</strong></td>
-      <td>Single-screen pre-launch splash page for PeerTracer. The lightweight precursor to the full site above.</td>
-      <td>HTML · CSS</td>
-      <td nowrap><a href="https://github.com/mjberberette/PeerTracer-Splash">Repo</a></td>
-    </tr>
   </tbody>
 </table>
-
-<!-- TODO(Melanie): only three public repos exist on github.com/mjberberette right now.
-     Add rows here as more work goes public, or make selected private repos public to feature them. -->
 
 More Design Work — Brand identity, Web Design, App Design, Marketing and UX/UI processes: [melanieberberette.design](https://melanieberberette.design). 
 
