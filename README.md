@@ -46,7 +46,7 @@ Outside of my professional work, you can find me disc-golfing around Denver, goi
     </tr>
     <tr>
       <td><strong>Client Portal</strong></td>
-      <td>Invitation-only portal for clients, built for <code>portal.melanieberberette.design</code>. Clients sign agreements in the browser (drawn or typed, with a certificate page and SHA-256 fingerprint stamped on the PDF), follow a five-phase project track with milestones and updates, manage their profile and website details, and message me with live replies and read receipts. An admin side handles invitations, projects, and agreements; runs in demo mode without credentials.</td>
+      <td>Invitation-only portal for clients, built for <code>portal.melanieberberette.design</code>. Clients sign agreements in the browser (drawn or typed, with a certificate page and SHA-256 fingerprint stamped on the PDF), follow a five-phase project track with milestones and updates, manage their profile and website details, and send messages with live replies and read receipts. An admin side handles invitations, projects, and agreements; runs in demo mode without credentials.</td>
       <td>Next.js 16 · TypeScript · Tailwind CSS 4 · shadcn/ui · pdf-lib · Supabase</td>
       <td nowrap><a href="https://github.com/mjberberette/melanie-portfolio/tree/main/portal">Repo</a> · <a href="https://github.com/mjberberette/melanie-portfolio/blob/main/portal/README.md">Docs</a></td>
     </tr>
